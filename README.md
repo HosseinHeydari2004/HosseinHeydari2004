@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hossein Heydari 👋
 
-<!--
-**HosseinHeydari2004/HosseinHeydari2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering (Software) Student  
+🤖 Machine Learning & Data Science Enthusiast  
 
-Here are some ideas to get you started:
+I am passionate about learning and building projects in Machine Learning and Data Science, with a strong focus on practical applications and real-world datasets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Language:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost  
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+
+## 📌 Interests
+- Machine Learning
+- Data Science
+- AI Research
+
+## 🔗 Links
+- GitHub: https://github.com/HosseinHeydari2004  
+- Kaggle: https://www.kaggle.com/mrhosseinheydari  
+- LinkedIn: https://linkedin.com/in/hossein-heydari-1195602b6  
+- Website: https://hossein-heydari.ir
