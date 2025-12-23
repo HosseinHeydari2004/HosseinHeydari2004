@@ -81,4 +81,8 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
   </a>
   <a href="https://www.instagram.com/hossein_heydari8338?igsh=MWwwdDQwenVmNXRzNQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"
+  </a>
+  <a href="https://www.facebook.com/Hossein.heydari83"
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"
+  </a>
 </p>
