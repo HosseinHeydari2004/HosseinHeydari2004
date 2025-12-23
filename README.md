@@ -1,22 +1,56 @@
-# Hi, I'm Hossein Heydari 👋
+# 👋 Hello World, I'm Hossein Heydari 🚀
 
 🎓 Computer Engineering (Software) Student  
-🤖 Machine Learning & Data Science Enthusiast  
+📈 Machine Learning & Data Science Student  
+🤖 AI Research Enthusiast  
 
-I am passionate about learning and building projects in Machine Learning and Data Science, with a strong focus on practical applications and real-world datasets.
+I am passionate about **Machine Learning** and **Data Science**, focusing on building practical projects, analyzing real datasets, and continuously improving my technical skills.  
+My goal is to work in a professional tech company and grow as an AI-focused software engineer.
 
-## 🔧 Skills
-- **Language:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost  
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook  
+---
 
-## 📌 Interests
+## 🧠 Areas of Interest
 - Machine Learning
 - Data Science
+- Deep Learning (future focus)
 - AI Research
 
-## 🔗 Links
-- GitHub: https://github.com/HosseinHeydari2004  
-- Kaggle: https://www.kaggle.com/mrhosseinheydari  
-- LinkedIn: https://linkedin.com/in/hossein-heydari-1195602b6  
-- Website: https://hossein-heydari.ir
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
+- Python
+
+### 📚 Libraries & Frameworks
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Plotly  
+- Scikit-learn  
+- XGBoost  
+
+### 🧰 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebook  
+
+---
+
+## 📊 Projects & Work
+- Kaggle notebooks and datasets exploration  
+- End-to-end Machine Learning projects  
+- Data preprocessing, visualization, and modeling  
+
+---
+
+## 📖 Currently Learning
+- Machine Learning  
+- Data Science  
+
+---
+
+## 🌐 Online Presence
+- 🔗 GitHub: https://github.com/HosseinHeydari2004  
+- 📊 Kaggle: https://www.kaggle.com/mrhosseinheydari  
+- 💼 LinkedIn: https://linkedin.com/in/hossein-heydari-1195602b6  
+- 🌍 Personal Website: https://hossein-heydari.ir
