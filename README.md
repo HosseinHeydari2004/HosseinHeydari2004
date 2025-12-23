@@ -1,56 +1,82 @@
-# 👋 Hello World, I'm Hossein Heydari 🚀
+<h1 align="center">Hi 👋, I'm Hossein Heydari</h1>
+<h3 align="center">Machine Learning & Data Science Student</h3>
 
+<p align="center">
+  <a href="https://github.com/HosseinHeydari2004">
+    <img src="https://img.shields.io/github/followers/HosseinHeydari2004?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://www.kaggle.com/mrhosseinheydari">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
 🎓 Computer Engineering (Software) Student  
-📈 Machine Learning & Data Science Student  
-🤖 AI Research Enthusiast  
+📊 Machine Learning & Data Science Student  
+🤖 Interested in AI Research  
 
-I am passionate about **Machine Learning** and **Data Science**, focusing on building practical projects, analyzing real datasets, and continuously improving my technical skills.  
-My goal is to work in a professional tech company and grow as an AI-focused software engineer.
-
----
-
-## 🧠 Areas of Interest
-- Machine Learning
-- Data Science
-- Deep Learning (future focus)
-- AI Research
+I am passionate about building **Machine Learning** and **Data Science** projects using real-world datasets.  
+Currently focused on improving my skills through **Kaggle projects**, data analysis, and practical ML models.
 
 ---
 
-## 🛠 Technical Skills
+## 🧠 Focus Areas
+- 🤖 Machine Learning  
+- 📈 Data Science  
+- 🧬 Deep Learning (future focus)
 
-### 💻 Programming
-- Python
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming Language
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 📚 Libraries & Frameworks
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Plotly  
-- Scikit-learn  
-- XGBoost  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
 
-### 🧰 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebook  
-
----
-
-## 📊 Projects & Work
-- Kaggle notebooks and datasets exploration  
-- End-to-end Machine Learning projects  
-- Data preprocessing, visualization, and modeling  
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## 📖 Currently Learning
+## 📊 Projects
+- 🏆 Kaggle notebooks & datasets analysis  
+- 🤖 Machine Learning models (classification & regression)  
+- 📈 Data visualization & EDA projects  
+
+---
+
+## 📚 Currently Learning
 - Machine Learning  
 - Data Science  
 
 ---
 
-## 🌐 Online Presence
-- 🔗 GitHub: https://github.com/HosseinHeydari2004  
-- 📊 Kaggle: https://www.kaggle.com/mrhosseinheydari  
-- 💼 LinkedIn: https://linkedin.com/in/hossein-heydari-1195602b6  
-- 🌍 Personal Website: https://hossein-heydari.ir
+## 🌐 Connect With Me
+<p>
+  <a href="https://hossein-heydari.ir">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/hossein-heydari-1195602b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/mrhosseinheydari">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HosseinHeydari2004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
