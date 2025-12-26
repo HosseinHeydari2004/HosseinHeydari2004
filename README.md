@@ -72,7 +72,6 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 ---
 
 ## ✨My Activity
-<img src="https://nirzak-streak-stats.vercel.app/?user=HosseinHeydari2004">
 
 ---
 
