@@ -2,12 +2,16 @@
 <h3 align="center">Machine Learning & Data Science Student</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HosseinHeydari2004&style=for-the-badge&abbreviated=true" />
+
   <a href="https://github.com/HosseinHeydari2004">
     <img src="https://img.shields.io/github/followers/HosseinHeydari2004?label=Followers&style=for-the-badge" />
   </a>
+
   <a href="https://www.kaggle.com/mrhosseinheydari">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
@@ -34,6 +38,8 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 
 ### 💻 Programming Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
 
 ### 📚 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -65,7 +71,13 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 
 ---
 
+## ✨My Activity
+<img src="https://nirzak-streak-stats.vercel.app/?user=HosseinHeydari2004">
+
+---
+
 ## 🌐 Connect With Me
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hosseinheydari992020@gmail.com)
 <p>
   <a href="https://linkedin.com/in/hossein-heydari-1195602b6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
@@ -82,4 +94,8 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
   <a href="https://www.facebook.com/Hossein.heydari83">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white">
   </a>
+  <a href="https://t.me/Hossein_h830">
+  <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white">
+  </a>
 </p>
+
