@@ -73,6 +73,8 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 
 ## ✨My Activity
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosseinHeydari2004&show_icons=true&theme=radical)
+
 ---
 
 ## 🌐 Connect With Me
