@@ -90,9 +90,6 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
   <a href="https://linkedin.com/in/hossein-heydari-1195602b6">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/mrhosseinheydari">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
-  </a>
   <a href="https://github.com/HosseinHeydari2004">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
