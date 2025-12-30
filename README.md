@@ -67,7 +67,8 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 
 ## 📚 Currently Learning
 - Machine Learning  
-- Data Science  
+- Data Science
+- MySQL
 
 ---
 
