@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hossein Heydari</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hossein%20Heydari&fontSize=45&fontAlignY=40&desc=Machine%20Learning%20%20|%20%20Data%20Science%20%20|%20%20Computer%20Engineering&descSize=16&descAlignY=60&color=0:757575,100:424242&fontColor=ffffff&descColor=f0f0f0" />
+</p>
+
+
+
 <h3 align="center">Machine Learning & Data Science Student</h3>
 
 <p align="center">
