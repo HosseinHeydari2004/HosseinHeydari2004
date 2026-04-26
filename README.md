@@ -34,7 +34,8 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 
 ## 🧠 Focus Areas
 - 🤖 Machine Learning  
-- 📈 Data Science  
+- 📈 Data Science
+- 👁️ Computer Vision
 - 🧬 Deep Learning (future focus)
 
 ---
@@ -44,6 +45,7 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 ### 💻 Programming Language
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 
 ### 📚 Libraries & Frameworks
@@ -54,12 +56,18 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+
+
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+
 
 ---
 
@@ -74,6 +82,7 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 - Machine Learning  
 - Data Science
 - MySQL
+- Computer Vision
 
 ---
 
