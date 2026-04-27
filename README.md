@@ -26,6 +26,7 @@
 🎓 Computer Engineering (Software) Student  
 📊 Machine Learning & Data Science Student  
 🤖 Interested in AI Research  
+👨‍🏫 Interested in teaching
 
 I am passionate about building **Machine Learning** and **Data Science** projects using real-world datasets.  
 Currently focused on improving my skills through **Kaggle projects**, data analysis, and practical ML models.
