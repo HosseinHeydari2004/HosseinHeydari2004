@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Machine Learning & Data Science Student</h3>
+<h3 align="center">Machine Learning & Data Science</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HosseinHeydari2004&style=for-the-badge&abbreviated=true" />
