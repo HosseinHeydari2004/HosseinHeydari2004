@@ -93,7 +93,7 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 ![](https://nirzak-streak-stats.vercel.app/?user=HosseinHeydari2004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HosseinHeydari2004&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<a href="https://github.com/k-forghani">
+<a href="https://github.com/HosseinHeydari2004">
   <img height=200 align="upper right" src="https://github-readme-stats.vercel.app/api?username=HosseinHeydari2004&show_icons=true&rank_icon=percentile&theme=dracula&border_color=00000000">
 </a>
 
