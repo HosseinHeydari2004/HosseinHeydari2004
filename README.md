@@ -24,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 🎓 Computer Engineering (Software) Student  
-📊 Machine Learning & Data Science 
+📊 Machine Learning & Data Science <br>
 🤖 Interested in AI Research  
 👨‍🏫 Interested in teaching
 
