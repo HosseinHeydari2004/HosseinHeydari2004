@@ -36,7 +36,7 @@ Currently focused on improving my skills through **Kaggle projects**, data analy
 ## 🧠 Focus Areas
 - 🤖 Machine Learning  
 - 📈 Data Science
-- 👁️ Computer Vision
+- 👁️ Computer Vision (future focus)
 - 🧬 Deep Learning (future focus)
 
 ---
