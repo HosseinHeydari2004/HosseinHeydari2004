@@ -92,6 +92,9 @@ Become an AI Engineer specializing in Deep Learning, RAG Systems, and LLM-based 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC4D?style=flat&logo=huggingface&logoColor=black)
+
 
 ---
 
