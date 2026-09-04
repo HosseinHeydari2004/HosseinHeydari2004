@@ -1,218 +1,119 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hossein%20Heydari&fontSize=45&fontAlignY=40&desc=Machine%20Learning%20|%20Data%20Science%20|%20AI%20Engineer&descSize=16&descAlignY=60&color=0:757575,100:424242&fontColor=ffffff&descColor=f0f0f0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hossein%20Heydari&fontSize=42&fontAlignY=38&desc=ML%20%7C%20Computer%20Vision%20%7C%20LLM%20%26%20RAG%20Engineering&descSize=16&descAlignY=58&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&descColor=e0e0e0" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Future+LLM+Engineer;Computer+Engineering+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Computer+Vision+%26+Medical+Imaging;LLM+%2F+RAG+Systems+Engineer;Team+Lead+%40+AI+Builders+Iran;Building+AI+Products+End-to-End" />
 </p>
 
-<h3 align="center">Machine Learning • Data Science • AI Engineering</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HosseinHeydari2004&style=for-the-badge&abbreviated=true" />
-
   <a href="https://github.com/HosseinHeydari2004">
-    <img src="https://img.shields.io/github/followers/HosseinHeydari2004?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/HosseinHeydari2004?label=Followers&style=for-the-badge&color=2c5364" />
   </a>
-
   <a href="https://www.kaggle.com/mrhosseinheydari">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="https://linkedin.com/in/hossein-heydari-1195602b6">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+### 🧭 About
 
-🎓 Computer Engineering (Software) Student
+I'm a Computer Engineering student building toward a career founding my own AI company. I currently serve as **Co-Founder & Technical Lead at AI Builders Iran**, where I set technical direction across our projects and lead the LLM/RAG engineering track while our team builds computer vision systems for real industrial and medical problems.
 
-🤖 Passionate about:
-- Machine Learning
-- Data Science
-- Artificial Intelligence
-- Deep Learning
-- LLM Applications
-- Retrieval Augmented Generation (RAG)
+My work sits at the intersection of two disciplines: **medical & industrial computer vision** (segmentation, detection, deployment) and **LLM/RAG engineering** (retrieval pipelines, local model serving, agentic systems). I don't just prototype — I take projects from architecture design through training, bug-fixing, and containerized deployment, and I document the process for the community through a Persian-language educational series on LLM fundamentals.
 
-📚 I enjoy building practical Machine Learning projects using real-world datasets and continuously improving my skills through hands-on development and Kaggle projects.
-
-🎯 Long-Term Goal:
-
-Become an AI Engineer specializing in Deep Learning, RAG Systems, and LLM-based Applications.
+**Currently:**
+- 🧠 Preparing my brain MRI tumor segmentation project for academic submission (JOSS / arXiv, cs.CV) — adding baseline comparisons and an ablation study
+- 📚 Progressing through a structured RAG curriculum — Document Processing → Retrieval → Advanced Retrieval → Generation → Production Systems
+- 🏗️ Directing LLM integration on AI Builders Iran's Safety Monitoring System as Technical Lead
+- ✍️ Publishing a 25+ episode Persian LLM-fundamentals series on LinkedIn (tokenization → attention → transformers → fine-tuning)
+- 🌐 Building out my personal RTL Persian portfolio (React, TypeScript, MDX, KaTeX)
 
 ---
 
-# 🎯 Learning Roadmap
+### 🧑‍💼 Leadership
 
-✅ Python
-
-✅ Data Analysis
-
-✅ Data Visualization
-
-✅ Machine Learning
-
-🟡 FastAPI
-
-🟡 Docker
-
-🟡 Deep Learning
-
-🔜 NLP
-
-🔜 LLM Engineering
-
-🔜 RAG Systems
-
-🔜 MLOps
+**Co-Founder & Technical Lead — AI Builders Iran**
+Co-founded and technically lead a team building applied AI systems from the ground up. Responsible for architectural decisions across projects, dividing work along clear technical boundaries (e.g., detector/corrector, data pipeline/modeling), reviewing implementations, and driving projects from prototype to deployed, containerized products. Lead the team's LLM/RAG engineering track personally.
 
 ---
 
-# 🛠 Tech Stack
+### 🩻 Featured Work
 
-## 💻 Programming Languages
+**🧠 Brain MRI Tumor Segmentation** — *BRISC 2025*
+ResNet34 U-Net3+ architecture with Boundary Loss for precise tumor boundary segmentation. Built a leakage-safe data pipeline (threshold selection moved from test to validation set), aspect-ratio-preserving letterbox preprocessing, full checkpoint resumption across 40+ training epochs, and a composable OpenCV/matplotlib visualization & reporting suite (bounding boxes, overlays, convex hulls, centroids). Deployed as a Streamlit + FastAPI + Docker stack. Currently being prepared for peer-reviewed publication (JOSS, arXiv cs.CV) with baseline comparisons and ablation studies.
 
+**🦺 Safety Monitoring System** — *AI Builders Iran*
+A full CV-to-LLM pipeline for industrial hazard reporting: YOLOv8 for real-time hazard detection, feeding into a locally-served Qwen2.5-1.5B-Instruct model that generates structured HSE reports through a Jinja2-templated prompt engine and rule-based severity engine. Shipped end-to-end with a Gradio interface. Led the LLM integration layer as Technical Lead.
+
+**🔧 PCB Defect Detection**
+Two-stage YOLO pipeline for industrial PCB inspection, with GPU-aware inference, PyTorch-native model serving, and a clean Streamlit interface built for inline QA review by non-technical operators.
+
+**📊 ML_Lablator**
+A multi-page Streamlit application covering the full ML practitioner workflow — data cleaning, EDA, feature engineering, model training, and evaluation — with clustering visualizations, confidence-band learning curves, and one-click exportable charts. Fully documented, packaged, and open-sourced.
+
+**🩺 medvision** *(in progress)*
+Open-source library for MRI/CT artifact detection and correction. A single pipeline interface (`MedVisionPipeline.run()`) handles NIfTI, DICOM, and standard image formats for both single-image and batch-folder processing — designed with a clean detector/corrector boundary for collaborative development.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Core**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
----
-
-## 📚 Libraries & Frameworks
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+**ML / DL / CV**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FCC624?style=flat&logo=huggingface&logoColor=black)
 
+**LLM / RAG**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![Qwen2.5](https://img.shields.io/badge/Qwen2.5-Local%20LLM-purple?style=flat)
 
----
-
-## 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+**Deployment & Tools**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-# ⭐ Featured Projects
-
-### 🩺 Diabetes Prediction
-
-Machine Learning pipeline for diabetes prediction including:
-- EDA
-- Feature Engineering
-- Model Training
-- Model Evaluation
-
----
-
-### 📊 Data Science Laboratory
-
-An interactive Streamlit application for:
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Machine Learning
-- Model Evaluation
-
----
-
-### 🏠 House Price Prediction
-
-Regression project using:
-- Scikit-Learn
-- XGBoost
-- Feature Engineering
-- Hyperparameter Tuning
-
----
-
-### 📈 Kaggle Projects
-
-A collection of Kaggle notebooks and machine learning experiments built on real-world datasets.
-
----
-
-# 🔥 Current Focus
-
-- Building end-to-end Machine Learning projects
-- Learning Deep Learning fundamentals
-- Exploring LLM applications
-- Studying RAG architectures
-- Improving Software Engineering skills
-
----
-
-# 📈 GitHub Statistics
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosseinHeydari2004&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HosseinHeydari2004&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinHeydari2004&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinHeydari2004&theme=github-dark-blue" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HosseinHeydari2004&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Contribution Graph
+### 🌐 Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HosseinHeydari2004&theme=github-compact" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p>
   <a href="mailto:hosseinheydari992020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://linkedin.com/in/hossein-heydari-1195602b6">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/HosseinHeydari2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-
   <a href="https://www.kaggle.com/mrhosseinheydari">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-
-  <a href="https://www.instagram.com/hossein_heydari8338">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-
   <a href="https://t.me/Hossein_h830">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
----
-
-# 💡 Philosophy
-
-> Learn deeply.  
-> Build consistently.  
-> Improve every day.
-
-⭐ If you like my work, consider following my GitHub profile.
+<p align="center"><i>Learn deeply. Build consistently. Ship things that work.</i></p>
