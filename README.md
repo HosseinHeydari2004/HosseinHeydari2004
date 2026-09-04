@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hossein%20Heydari&fontSize=42&fontAlignY=38&desc=ML%20%7C%20Computer%20Vision%20%7C%20LLM%20%26%20RAG%20Engineering&descSize=16&descAlignY=58&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&descColor=e0e0e0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hossein%20Heydari&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20LLM%20Systems%20%7C%20Medical%20AI&descSize=17&descAlignY=60&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -89,13 +89,9 @@ Open-source library for MRI/CT artifact detection and correction. A single pipel
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HosseinHeydari2004&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HosseinHeydari2004&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HosseinHeydari2004&theme=tokyo-night&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=HosseinHeydari2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+
 
 ---
 
