@@ -22,7 +22,7 @@
   <a href="https://www.kaggle.com/mrhosseinheydari">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="mailto:hosseinheydari992020@gmail.com">
+  <a href="mailto:hosseinheydari982020@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://t.me/Hossein_h830">
@@ -90,6 +90,8 @@ A more structured RAG architecture introducing **metadata-aware retrieval and fi
 The goal is to make retrieval more precise by allowing the system to use document metadata alongside semantic similarity.
 
 **Stack:** Python · LangChain · Vector Database · Docker
+
+**Status:** 🚧 In development
 
 ### Level 3 — HybridDocs-RAG
 
@@ -289,7 +291,7 @@ If you are interested in **AI engineering, LLM/RAG systems, collaboration, resea
 - **GitHub:** [HosseinHeydari2004](https://github.com/HosseinHeydari2004)
 - **LinkedIn:** [Hossein Heydari](https://www.linkedin.com/in/hossein-heydari2004)
 - **Kaggle:** [mrhosseinheydari](https://www.kaggle.com/mrhosseinheydari)
-- **Email:** hosseinheydari992020@gmail.com
+- **Email:** hosseinheydari982020@gmail.com
 - **Telegram:** [@Hossein_h830](https://t.me/Hossein_h830)
 
 ---
