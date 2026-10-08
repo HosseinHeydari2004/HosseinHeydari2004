@@ -34,7 +34,7 @@
 
 ## 👋 About Me
 
-I am a Computer Engineering student and AI Engineer focused on building **LLM, RAG, and practical AI systems** that move beyond experiments into usable software.
+I am a Computer Engineering student and AI Engineer focused on building **LLM, RAG, Ai Agent and practical AI systems** that move beyond experiments into usable software.
 
 My work covers the full path from **document ingestion and retrieval to grounded generation, APIs, user interfaces, testing, and deployment**.
 
