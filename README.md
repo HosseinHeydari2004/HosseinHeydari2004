@@ -68,8 +68,8 @@ Each project introduces a new retrieval concept rather than simply adding more t
 | Level | Project | Focus | Status |
 |---|---|---|---|
 | 1 | [**simple-pdf-rag**](https://github.com/HosseinHeydari2004/simple-pdf-rag) | End-to-end baseline RAG | ✅ Completed |
-| 2 | [**SmartDocs-RAG**](https://github.com/HosseinHeydari2004/SmartDocs-RAG) | Metadata-aware retrieval & filtering | 🔨 Built |
-| 3 | [**HybridDocs-RAG**](https://github.com/HosseinHeydari2004/HybridDocs-RAG) | Hybrid retrieval | 🚧 In Development |
+| 2 | [**SmartDocs-RAG**](https://github.com/HosseinHeydari2004/SmartDocs-RAG) | Metadata-aware retrieval & filtering | ✅ Completed |
+| 3 | [**TeamDocs-AI**](https://github.com/HosseinHeydari2004/TeamDocs-AI) | Hybrid retrieval | 🚧 In Development |
 
 ### Level 1 — simple-pdf-rag
 
@@ -169,7 +169,7 @@ I led the LLM workstream, including prompt engineering, local model inference wi
 | Project | Description | Stack |
 |---|---|---|
 | [**Brain-MRI-Tumor-Analysis**](https://github.com/HosseinHeydari2004/Brain-MRI-Tumor-Analysis) | Two-stage MRI analysis pipeline combining classification and segmentation with visual overlays and downloadable reports. | PyTorch · OpenCV · FastAPI · Docker |
-| [**medvision**](https://github.com/HosseinHeydari2004/medvision) | Open-source toolkit for detecting and correcting common MRI/CT imaging artifacts before model training. | MONAI · OpenCV |
+| [**MedArtifact**](https://github.com/HosseinHeydari2004/MedArtifact) | Open-source toolkit for detecting and correcting common MRI/CT imaging artifacts before model training. | MONAI · OpenCV |
 | [**Data-Science-Laboratory**](https://github.com/HosseinHeydari2004/Data-Science-Laboratory) | Modular application for preprocessing, EDA, feature engineering, and machine-learning workflows. | scikit-learn · Streamlit |
 
 ---
