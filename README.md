@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Co-Founder & Technical Lead at AI Builders · LLM Team Lead</strong>
+  <strong>Co-Founder & CTO at AI Builders · LLM Team Lead</strong>
 </p>
 
 <p align="center">
@@ -261,7 +261,7 @@ FastAPI · Docker · Docker Compose · Streamlit · Gradio · pytest · Git · u
 
 ### My role
 
-**Co-Founder & Technical Lead**
+**Co-Founder & CTO**
 
 I contribute to the organization's technical direction, architecture, engineering practices, and development of AI systems.
 
