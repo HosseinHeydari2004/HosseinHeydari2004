@@ -91,7 +91,7 @@ The goal is to make retrieval more precise by allowing the system to use documen
 
 **Stack:** Python · LangChain · Vector Database · Docker
 
-**Status:** 🚧 In development
+**Status:** ✅ Completed
 
 ### Level 3 — HybridDocs-RAG
 
