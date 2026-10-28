@@ -93,7 +93,7 @@ The goal is to make retrieval more precise by allowing the system to use documen
 
 **Status:** ✅ Completed
 
-### Level 3 — HybridDocs-RAG
+### Level 3 — TeamDocs-AI
 
 The next stage of the retrieval pipeline, focused on combining different retrieval strategies to improve search quality across different query types.
 
