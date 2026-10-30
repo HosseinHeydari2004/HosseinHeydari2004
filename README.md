@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Co-Founder & CTO at AI Builders · LLM Team Lead</strong>
+  <strong>Co-Founder & CTO at Vexonova · LLM Team Lead</strong>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ I am a Computer Engineering student and AI Engineer focused on building **LLM, R
 
 My work covers the full path from **document ingestion and retrieval to grounded generation, APIs, user interfaces, testing, and deployment**.
 
-I am also a **Co-Founder and CTO at AI Builders**, where I contribute to the technical direction of the organization and lead the **LLM team** across RAG, LLM, and AI-agent projects.
+I am also a **Co-Founder and CTO at Vexonova**, where I contribute to the technical direction of the organization and lead the **LLM team** across RAG, LLM, and AI-agent projects.
 
 My engineering background also includes **Machine Learning, Deep Learning, Computer Vision, and Data Science**, giving me experience working with both structured data and real-world unstructured inputs.
 
@@ -130,7 +130,7 @@ The system is designed around a simple principle:
 - 🧪 **Automated testing** — Includes mock-based pytest coverage.
 - 🐳 **Containerized deployment** — Supports Docker-based execution.
 
-**My contribution:** Technical Lead at AI Builders and LLM Team Lead, contributing to the design and development of the LLM/RAG system and its engineering workflow.
+**My contribution:** Technical Lead at Vexonova and LLM Team Lead, contributing to the design and development of the LLM/RAG system and its engineering workflow.
 
 **Stack:** Python · RAG · LangChain · ChromaDB · BGE-M3 · Gemini · OpenRouter · FastAPI · Streamlit · Docker · Pydantic · pytest
 
@@ -253,11 +253,11 @@ FastAPI · Docker · Docker Compose · Streamlit · Gradio · pytest · Git · u
 
 ---
 
-# 👨‍💻 Leadership & AI Builders
+# 👨‍💻 Leadership & Vexonova
 
-## AI Builders
+## Vexonova
 
-[**AI Builders**](https://github.com/AI-Builders-Iran) is an open-source AI engineering organization focused on building practical systems across **LLM, RAG, AI Agents, Computer Vision, and MLOps**.
+[**Vexonova**](https://github.com/AI-Builders-Iran) is an open-source AI engineering organization focused on building practical systems across **LLM, RAG, AI Agents, Computer Vision, and MLOps**.
 
 ### My role
 
