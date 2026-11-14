@@ -291,7 +291,7 @@ If you are interested in **AI engineering, LLM/RAG systems, collaboration, resea
 - **GitHub:** [HosseinHeydari2004](https://github.com/HosseinHeydari2004)
 - **LinkedIn:** [Hossein Heydari](https://www.linkedin.com/in/hossein-heydari2004)
 - **Kaggle:** [mrhosseinheydari](https://www.kaggle.com/mrhosseinheydari)
-- **Email:** hosseinheydari982020@gmail.com
+- **Email:** hosseinheydari992020@gmail.com
 - **Telegram:** [@Hossein_h830](https://t.me/Hossein_h830)
 
 ---
