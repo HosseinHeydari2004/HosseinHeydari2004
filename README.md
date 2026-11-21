@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Co-Founder & CTO at Vexonova · LLM Team Lead</strong>
+  <strong>Co-Founder & Technical lead at Vexonova · LLM Team Lead</strong>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ I am a Computer Engineering student and AI Engineer focused on building **LLM, R
 
 My work covers the full path from **document ingestion and retrieval to grounded generation, APIs, user interfaces, testing, and deployment**.
 
-I am also a **Co-Founder and CTO at Vexonova**, where I contribute to the technical direction of the organization and lead the **LLM team** across RAG, LLM, and AI-agent projects.
+I am also a **Co-Founder and Technical lead at Vexonova**, where I contribute to the technical direction of the organization and lead the **LLM team** across RAG, LLM, and AI-agent projects.
 
 My engineering background also includes **Machine Learning, Deep Learning, Computer Vision, and Data Science**, giving me experience working with both structured data and real-world unstructured inputs.
 
@@ -261,7 +261,7 @@ FastAPI · Docker · Docker Compose · Streamlit · Gradio · pytest · Git · u
 
 ### My role
 
-**Co-Founder & CTO**
+**Co-Founder & Technical lead**
 
 I contribute to the organization's technical direction, architecture, engineering practices, and development of AI systems.
 
