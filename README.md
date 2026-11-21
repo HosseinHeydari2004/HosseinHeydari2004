@@ -69,7 +69,7 @@ Each project introduces a new retrieval concept rather than simply adding more t
 |---|---|---|---|
 | 1 | [**simple-pdf-rag**](https://github.com/HosseinHeydari2004/simple-pdf-rag) | End-to-end baseline RAG | ✅ Completed |
 | 2 | [**SmartDocs-RAG**](https://github.com/HosseinHeydari2004/SmartDocs-RAG) | Metadata-aware retrieval & filtering | ✅ Completed |
-| 3 | [**TeamDocs-AI**](https://github.com/HosseinHeydari2004/TeamDocs-AI) | Hybrid retrieval | 🚧 In Development |
+| 3 | [**TeamDocs-AI**](https://github.com/HosseinHeydari2004/TeamDocs-AI) | Hybrid retrieval | ✅ In Development |
 
 ### Level 1 — simple-pdf-rag
 
