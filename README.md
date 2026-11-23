@@ -1,301 +1,149 @@
 <h1 align="center">Hossein Heydari</h1>
 
 <p align="center">
-  <strong>AI Engineer · LLM & RAG Systems · Data Science</strong>
+  <strong>AI Engineer · LLM, RAG & Agentic Systems · Computer Vision</strong>
 </p>
 
 <p align="center">
-  <strong>Co-Founder & Technical lead at Vexonova · LLM Team Lead</strong>
+  Co-Founder & Technical Lead at Vexonova · LLM Team Lead
 </p>
 
 <p align="center">
-  Building practical AI systems from <strong>data and documents to retrieval, reasoning, APIs, and deployment.</strong>
+  I build AI systems that turn documents, code, and visual data into grounded, observable, deployable products.
 </p>
 
 <p align="center">
-  <a href="https://github.com/HosseinHeydari2004">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hossein-heydari2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/mrhosseinheydari">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="mailto:hosseinheydari982020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://t.me/Hossein_h830">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
+  <a href="https://github.com/HosseinHeydari2004"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/hossein-heydari2004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/mrhosseinheydari"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:hosseinheydari992020@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/Hossein_h830"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ---
 
-## 👋 About Me
+## About me
 
-I am a Computer Engineering student and AI Engineer focused on building **LLM, RAG, Ai Agent and practical AI systems** that move beyond experiments into usable software.
+I am a Computer Engineering student and AI Engineer focused on building reliable AI software—not isolated model demos. My work spans document ingestion, retrieval, grounded generation, agent workflows, APIs, testing, and containerized deployment.
 
-My work covers the full path from **document ingestion and retrieval to grounded generation, APIs, user interfaces, testing, and deployment**.
+At **Vexonova**, I help shape technical direction and lead the LLM workstream across RAG, LLM applications, and AI-agent systems. My background in machine learning, computer vision, and data science helps me work across structured data, documents, images, and real operational constraints.
 
-I am also a **Co-Founder and Technical lead at Vexonova**, where I contribute to the technical direction of the organization and lead the **LLM team** across RAG, LLM, and AI-agent projects.
+> **Build deeply. Measure honestly. Ship useful AI.**
 
-My engineering background also includes **Machine Learning, Deep Learning, Computer Vision, and Data Science**, giving me experience working with both structured data and real-world unstructured inputs.
+## What I build
 
-> **Build systems. Understand the trade-offs. Ship what works.**
+- **RAG systems** — retrieval pipelines with citations, refusal behavior, evaluation, and document lifecycle considerations.
+- **Document intelligence** — PDF, DOCX, Markdown, source code, web content, OCR, and Persian/English documents.
+- **Agentic systems** — bounded tool use, routing, retrieval agents, GitHub-aware workflows, and human-controlled actions.
+- **Applied LLM products** — structured outputs, provider fallbacks, APIs, user interfaces, and Dockerized services.
+- **Computer vision & medical AI** — practical image-analysis pipelines and model-serving workflows.
 
----
+## Featured work
 
-## 🚀 What I Build
+### [TeamDocs AI](https://github.com/HosseinHeydari2004/TeamDocs-AI) — Agentic engineering knowledge assistant
 
-My main focus is practical AI engineering, particularly systems that connect models with real data and real users.
+An AI assistant for teams to search their documents and inspect GitHub repositories, issues, and pull requests with verifiable sources.
 
-- **LLM Applications** — Turning foundation models into useful software products.
-- **RAG Systems** — Building retrieval pipelines that ground model responses in trusted documents.
-- **Document Intelligence** — Processing PDFs, DOCX, TXT, Markdown, and scanned documents.
-- **AI Agents** — Exploring systems that can reason, retrieve information, and execute multi-step tasks.
-- **Machine Learning & Data Science** — Building reliable ML pipelines and analytical applications.
-- **AI Deployment** — Packaging AI systems behind APIs, interfaces, and containers.
+- Hybrid retrieval: dense embeddings + BM25, fused with weighted reciprocal-rank fusion.
+- Ingests PDF, DOCX, PPTX, Markdown, text, source code, and approved web pages.
+- Main agent routes requests to RAG and read-only GitHub agents; runs are bounded by tool-call, recursion, and timeout limits.
+- Citations, insufficient-evidence responses, incremental indexing, model fallback, FastAPI, Docker Compose, and a browser UI.
+- Security-minded design: SSRF-safe URL import, secret handling, read-only GitHub tools, and untrusted-content treatment.
+- Evaluation artifacts and a pytest suite cover retrieval, ingestion, configuration, agents, APIs, and web loading.
 
----
+**Current focus:** improving retrieval quality with measured experiments, reranking, and regression evaluation rather than adding features blindly.
 
-## 🧠 RAG Engineering Journey
+**Stack:** Python · FastAPI · LangChain · ChromaDB · BM25 · OpenRouter · Ollama · GitHub MCP · Docker · pytest · DeepEval
 
-I intentionally build RAG systems in progressive levels.
+### [ChemLib AI](https://github.com/AI-Builders-Iran/ChemLib-AI) — Multilingual library RAG
 
-Each project introduces a new retrieval concept rather than simply adding more technologies.
+A document-intelligence assistant for a university chemistry library. Students can ask Persian or English questions over the library’s own documents and receive grounded answers with book and page citations.
 
-| Level | Project | Focus | Status |
-|---|---|---|---|
-| 1 | [**simple-pdf-rag**](https://github.com/HosseinHeydari2004/simple-pdf-rag) | End-to-end baseline RAG | ✅ Completed |
-| 2 | [**SmartDocs-RAG**](https://github.com/HosseinHeydari2004/SmartDocs-RAG) | Metadata-aware retrieval & filtering | ✅ Completed |
-| 3 | [**TeamDocs-AI**](https://github.com/HosseinHeydari2004/TeamDocs-AI) | Hybrid retrieval | ✅ In Development |
+- Handles digital and scanned documents through extraction plus OCR fallback.
+- Uses local BGE-M3 embeddings and persistent ChromaDB storage.
+- Refuses before generation when retrieval evidence is insufficient.
+- Supports document-scoped chat, cross-source comparison, private session documents, and library-admin ingestion workflows.
+- Includes structured extraction, provider fallback, FastAPI, Docker, pytest, and a RAGAS evaluation workflow.
 
-### Level 1 — simple-pdf-rag
+**My contribution:** LLM Team Lead; contributing to the LLM/RAG architecture, engineering workflow, structured outputs, and application integration.
 
-A practical baseline for asking questions over personal documents.
+**Stack:** Python · LangChain · BGE-M3 · ChromaDB · OCR · FastAPI · NiceGUI · OpenRouter · Pydantic · pytest · Docker · RAGAS
 
-**Pipeline:**
+### [SmartDocs-RAG](https://github.com/HosseinHeydari2004/SmartDocs-RAG) — Metadata-aware document search
 
-`Documents → Chunking → Embeddings → ChromaDB → Retrieval → Grounded Answer`
+A deployable document RAG application that combines semantic search with metadata-aware filtering. It supports OCR for scanned Persian and English documents, local embeddings, persistent indexing, a FastAPI backend, Streamlit UI, Docker, and tests for ingestion and API behavior.
 
-Supports PDF, DOCX, TXT, and Markdown files with local embeddings, persistent ChromaDB storage, provider-independent LLM generation, source citations, Streamlit UI, and Docker Compose deployment.
+**Stack:** Python · FastAPI · Streamlit · LangChain · ChromaDB · sentence-transformers · Tesseract · Docker · pytest
 
-**Stack:** Python · LangChain · ChromaDB · Streamlit · Docker
+### [simple-pdf-rag](https://github.com/HosseinHeydari2004/simple-pdf-rag) — Clean RAG baseline
 
-### Level 2 — SmartDocs-RAG
+A compact end-to-end RAG application for PDF, DOCX, TXT, and Markdown. It demonstrates the essentials clearly: loading, chunking, local embeddings, persistent vector search, grounded answers with source citations, provider-agnostic generation, Streamlit, FastAPI, and Docker Compose.
 
-A more structured RAG architecture introducing **metadata-aware retrieval and filtering**.
+### [RAG: From Zero to Advanced](https://github.com/HosseinHeydari2004/RAG-Tutorial-From-Zero-to-Advanced) — Persian-first learning path
 
-The goal is to make retrieval more precise by allowing the system to use document metadata alongside semantic similarity.
+An open, hands-on tutorial series that progresses from first-principles RAG to ingestion, cleaning, metadata, chunking, embeddings, vector databases, indexing, and retrieval. The next modules focus on evaluation, hybrid retrieval, reranking, agentic RAG, and production systems.
 
-**Stack:** Python · LangChain · Vector Database · Docker
+## RAG engineering progression
 
-**Status:** ✅ Completed
+| Stage | Project | Engineering focus |
+|---|---|---|
+| Foundation | [simple-pdf-rag](https://github.com/HosseinHeydari2004/simple-pdf-rag) | End-to-end RAG, citations, UI, API, and Docker |
+| Retrieval control | [SmartDocs-RAG](https://github.com/HosseinHeydari2004/SmartDocs-RAG) | Metadata-aware filtering and OCR-aware ingestion |
+| Domain application | [ChemLib AI](https://github.com/AI-Builders-Iran/ChemLib-AI) | Multilingual, OCR, refusal logic, admin workflows, and evaluation |
+| Advanced retrieval & agents | [TeamDocs AI](https://github.com/HosseinHeydari2004/TeamDocs-AI) | Hybrid retrieval, agent routing, GitHub MCP, security, and evaluation |
 
-### Level 3 — TeamDocs-AI
+## Engineering principles
 
-The next stage of the retrieval pipeline, focused on combining different retrieval strategies to improve search quality across different query types.
+1. **Retrieve before generating.** If the evidence is weak, the system should say so instead of guessing.
+2. **Measure retrieval separately from generation.** A good-looking answer can still be based on poor retrieval.
+3. **Make outputs structured.** Pydantic schemas turn LLM responses into reliable application contracts.
+4. **Treat external content as untrusted.** Documents, web pages, and tool results are data—not instructions.
+5. **Bound agent behavior.** Tool limits, timeouts, scoped permissions, and user approval matter more than unconstrained autonomy.
+6. **Build incrementally.** Add complexity only when it solves a measurable product or reliability problem.
 
-**Status:** 🚧 In development
+## AI-agent direction
 
----
+I am expanding from RAG systems into reliable AI-agent engineering. My focus is on workflow-first agents that can retrieve, reason, use scoped tools, and report their work transparently—not agents that act without controls.
 
-# 🔥 Applied LLM & RAG Systems
+Areas I am actively developing:
 
-## 📚 ChemLib-AI
+- Agent routing and multi-agent coordination
+- Tool design, permission boundaries, and human-in-the-loop approvals
+- Stateful workflows, retries, timeouts, and idempotent operations
+- Tracing, evaluation, and failure analysis for agent systems
+- Retrieval quality improvements: reranking, query transformation, and regression testing
 
-[**ChemLib-AI**](https://github.com/AI-Builders-Iran/ChemLib-AI) is an intelligent RAG assistant designed for a university chemistry library.
-
-Instead of manually searching through books and documents, students and researchers can ask questions in **Persian or English** and receive answers grounded in the library's own content.
-
-### Why it matters
-
-The system is designed around a simple principle:
-
-> **If the documents cannot support the answer, the system should not invent one.**
-
-### Key capabilities
-
-- 📄 **Multi-format ingestion** — Processes PDF, DOCX, TXT, and other document sources.
-- 🔎 **Semantic retrieval** — Uses local BGE-M3 embeddings with ChromaDB for multilingual retrieval.
-- 🖨️ **Scanned-document support** — Uses vision-based OCR when standard text extraction is insufficient.
-- 🛡️ **Pre-generation grounding check** — Avoids unnecessary LLM calls when retrieved context is insufficient.
-- 📚 **Source citations** — Answers can reference the underlying books and pages.
-- 🔄 **LLM provider fallback** — Automatically switches from Gemini to OpenRouter when necessary.
-- 👤 **Private document mode** — User documents remain session-scoped instead of being added to the shared knowledge base.
-- ⚙️ **Admin management** — Administrators can add, replace, and remove shared documents.
-- 🔀 **Cross-source comparison** — Supports comparing information across multiple sources.
-- 🌐 **REST API** — Exposes functionality through FastAPI.
-- 🧪 **Automated testing** — Includes mock-based pytest coverage.
-- 🐳 **Containerized deployment** — Supports Docker-based execution.
-
-**My contribution:** Technical Lead at Vexonova and LLM Team Lead, contributing to the design and development of the LLM/RAG system and its engineering workflow.
-
-**Stack:** Python · RAG · LangChain · ChromaDB · BGE-M3 · Gemini · OpenRouter · FastAPI · Streamlit · Docker · Pydantic · pytest
-
----
-
-## 🦺 IAI-001 Safety Monitoring System
-
-[**IAI-001 Safety Monitoring System**](https://github.com/AI-Builders-Iran/IAI-001-Safety-Monitoring-System) connects Computer Vision, rule-based analysis, and LLM generation to transform workplace video events into management-ready HSE reports.
-
-### Pipeline
-
-`Video → YOLOv8 → ByteTrack → Rule Engine → Structured Alerts → Local LLM → HSE Report`
-
-### Key capabilities
-
-- 🎥 Detects relevant events from worksite video.
-- 🧠 Converts visual observations into structured safety events.
-- 📋 Uses a rule engine for deterministic safety logic.
-- 🤖 Uses locally served Qwen2.5 for report generation.
-- 🌍 Supports Persian and English reports.
-- 🧩 Uses Jinja2 templates for controlled prompt generation.
-- ⚡ Exposes the LLM reporting layer through FastAPI.
-
-### My role
-
-**LLM Team Lead**
-
-I led the LLM workstream, including prompt engineering, local model inference with Hugging Face Transformers, Pydantic report schemas, and integration behind the API layer.
-
-**Stack:** FastAPI · Docker Compose · Gradio · Qwen2.5 · Transformers · Jinja2 · Pydantic
-
----
-
-# 🧪 Computer Vision & Medical AI
+## Applied AI beyond RAG
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Brain-MRI-Tumor-Analysis**](https://github.com/HosseinHeydari2004/Brain-MRI-Tumor-Analysis) | Two-stage MRI analysis pipeline combining classification and segmentation with visual overlays and downloadable reports. | PyTorch · OpenCV · FastAPI · Docker |
-| [**MedArtifact**](https://github.com/HosseinHeydari2004/MedArtifact) | Open-source toolkit for detecting and correcting common MRI/CT imaging artifacts before model training. | MONAI · OpenCV |
-| [**Data-Science-Laboratory**](https://github.com/HosseinHeydari2004/Data-Science-Laboratory) | Modular application for preprocessing, EDA, feature engineering, and machine-learning workflows. | scikit-learn · Streamlit |
+| [Brain-MRI-Tumor-Analysis](https://github.com/HosseinHeydari2004/Brain-MRI-Tumor-Analysis) | Deep-learning MRI tumor analysis with an interactive web interface and deployment-oriented workflow. | PyTorch · OpenCV · FastAPI · Docker |
+| [MedArtifact](https://github.com/HosseinHeydari2004/MedArtifact) | Toolkit for detecting and correcting common MRI/CT image artifacts before model training. | MONAI · OpenCV |
+| [Data-Science-Laboratory](https://github.com/HosseinHeydari2004/Data-Science-Laboratory) | Modular application for preprocessing, EDA, feature engineering, training, and evaluation. | scikit-learn · Streamlit |
+| [IAI-001 Safety Monitoring System](https://github.com/AI-Builders-Iran/IAI-001-Safety-Monitoring-System) | Computer-vision-to-LLM system for structured workplace HSE reporting. | YOLOv8 · Qwen2.5 · FastAPI · Docker · Gradio |
 
----
+## Technology
 
-# 🏗️ Engineering Principles
+**LLM, RAG & agents:** Python · LangChain · ChromaDB · BM25 · BGE-M3 · Hugging Face · OpenRouter · Ollama · GitHub MCP · Pydantic · DeepEval · RAGAS
 
-I care about more than simply making a model produce an answer.
+**Backend & delivery:** FastAPI · Streamlit · NiceGUI · Gradio · Docker · Docker Compose · pytest · Git · SQL
 
-Some engineering decisions I actively consider:
+**Machine learning & vision:** PyTorch · TensorFlow · Keras · OpenCV · scikit-learn · MONAI
 
-### 1. Refuse before generating
+## Leadership
 
-If retrieved context is not sufficiently relevant, there is little value in asking the LLM to guess.
+### Vexonova
 
-A retrieval-quality check can therefore reduce **hallucinations, latency, and unnecessary model usage**.
+At Vexonova, I contribute to technical direction, system architecture, repository review, engineering practice, and delivery across LLM/RAG, agentic AI, computer vision, and applied AI products.
 
-### 2. Separate retrieval from generation
+As **LLM Team Lead**, I focus on turning model capabilities into reliable software: designing retrieval systems, defining integration boundaries, supporting team implementation, and guiding projects from prototype to deployable product.
 
-Embeddings and retrieval should remain independently testable from the generation layer.
+## Contact
 
-This makes it easier to evaluate where an answer went wrong.
+- GitHub: [HosseinHeydari2004](https://github.com/HosseinHeydari2004)
+- LinkedIn: [Hossein Heydari](https://www.linkedin.com/in/hossein-heydari2004)
+- Kaggle: [mrhosseinheydari](https://www.kaggle.com/mrhosseinheydari)
+- Email: [hosseinheydari992020@gmail.com](mailto:hosseinheydari992020@gmail.com)
+- Telegram: [@Hossein_h830](https://t.me/Hossein_h830)
 
-### 3. Prefer structured outputs
-
-Pydantic models provide a predictable contract between the LLM and the rest of the application.
-
-### 4. Design for provider failure
-
-LLM APIs can fail.
-
-Fallback providers can improve availability while keeping the user informed about what happened.
-
-### 5. Treat user documents as a privacy boundary
-
-Private documents should not automatically become part of a shared knowledge base.
-
-### 6. Build progressively
-
-Rather than adding technologies for their own sake, I prefer introducing new components when they solve a measurable engineering problem.
-
----
-
-# 🛠️ Technology Stack
-
-### LLM & RAG
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
-</p>
-
-LangChain · ChromaDB · Gemini · OpenRouter · Hugging Face Transformers · Pydantic 
-
-### Machine Learning & Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MONAI-4B0082?style=flat-square"/>
-</p>
-
-PyTorch · TensorFlow · Keras · OpenCV · scikit-learn · MONAI
-
-### Backend & Deployment
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
-
-FastAPI · Docker · Docker Compose · Streamlit · Gradio · pytest · Git · uv · SQL
-
----
-
-# 👨‍💻 Leadership & Vexonova
-
-## Vexonova
-
-[**Vexonova**](https://github.com/AI-Builders-Iran) is an open-source AI engineering organization focused on building practical systems across **LLM, RAG, AI Agents, Computer Vision, and MLOps**.
-
-### My role
-
-**Co-Founder & Technical lead**
-
-I contribute to the organization's technical direction, architecture, engineering practices, and development of AI systems.
-
-**LLM Team Lead**
-
-I lead the LLM-focused team working on **LLM applications, RAG pipelines, AI agents, and production-oriented AI workflows**.
-
-My responsibilities include:
-
-- Technical direction and architecture
-- LLM/RAG system design
-- Technical coordination across projects
-- Code and repository review
-- Supporting engineering teams
-- Leading LLM project development
-- Turning AI concepts into working software
-
-> My focus is not only on building models, but on building the systems around them that make AI useful, testable, and deployable.
-
-
----
-
-# 📬 Contact
-
-If you are interested in **AI engineering, LLM/RAG systems, collaboration, research, or building practical AI products**, feel free to reach out.
-
-- **GitHub:** [HosseinHeydari2004](https://github.com/HosseinHeydari2004)
-- **LinkedIn:** [Hossein Heydari](https://www.linkedin.com/in/hossein-heydari2004)
-- **Kaggle:** [mrhosseinheydari](https://www.kaggle.com/mrhosseinheydari)
-- **Email:** hosseinheydari992020@gmail.com
-- **Telegram:** [@Hossein_h830](https://t.me/Hossein_h830)
-
----
-
-<p align="center">
-  <i>Build deeply. Lead responsibly. Ship useful AI.</i>
-</p>
+<p align="center"><i>Build deeply. Measure honestly. Ship useful AI.</i></p>
