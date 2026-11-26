@@ -79,7 +79,7 @@ A deployable document RAG application that combines semantic search with metadat
 
 A compact end-to-end RAG application for PDF, DOCX, TXT, and Markdown. It demonstrates the essentials clearly: loading, chunking, local embeddings, persistent vector search, grounded answers with source citations, provider-agnostic generation, Streamlit, FastAPI, and Docker Compose.
 
-### [RAG: From Zero to Advanced](https://github.com/HosseinHeydari2004/RAG-Tutorial-From-Zero-to-Advanced) — Engilish/Persian-first learning path
+### [RAG: From Zero to Advanced](https://github.com/HosseinHeydari2004/RAG-Tutorial-From-Zero-to-Advanced) — English/Persian-first learning path
 
 An open, hands-on tutorial series that progresses from first-principles RAG to ingestion, cleaning, metadata, chunking, embeddings, vector databases, indexing, and retrieval. The next modules focus on evaluation, hybrid retrieval, reranking, agentic RAG, and production systems.
 
